@@ -12,7 +12,7 @@
 
   <div class="container mt-5">
 
-    <h2 class="text-center mb-4">Demo Form Validation in PHP 7</h2>
+    <h2 class="text-center mb-4">Local Demo Form Validation in PHP 7</h2>
 
     <!-- Form validation script -->
     <?php include('form_validation.php'); ?>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="wamp localhost" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="php rest api">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="wamp localhost">
+        <serverdata>
+          <mappings>
+            <mapping deploy="\phpForm" local="$PROJECT_DIR$" web="/phpForm" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
