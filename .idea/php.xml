@@ -2,9 +2,8 @@
 <project version="4">
   <component name="PhpIncludePathManager">
     <include_path>
-      <path value="" />
-      <path value="$PROJECT_DIR$/../../../../../wamp64/bin/php/php7.3.21" />
-      <path value="$PROJECT_DIR$/../../../../../wamp64/www" />
+      <path value="$PROJECT_DIR$/../../bin/php/php7.3.21" />
+      <path value="$PROJECT_DIR$/.." />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7.3" />
